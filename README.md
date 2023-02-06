@@ -23,21 +23,45 @@
     - 顔の映像と音声を合成する。3Dの推論を入れてるので精度が高い
 * Audio
   * [audiolm](audio/audiolm.ipynb)
+    - 音楽を生成できるやつ
   * [DeforumStableDiffusion](audio/Deforum_Stable_Diffusion_Mubert_original.ipynb)
+    - 音楽生成が可能（BGMより）、動画との組み合わせも可能
   * [Denoise](audio/Denoiser_fb_examples.ipynb)
+    - 雑音除去の性能が高いやつ
   * [riffusion](audio/riffusion.ipynb)
+    - 音楽生成が可能（BGMより）、fine-tuningコードあり
+  * [valle](audio/vall_e.ipynb)
+    - 誰かの声真似ができる
 * Generative
   * [img2prompt](generative/img2prompt.ipynb)
-  * [stablediffusion v2 finetune](generative/stable_diffusion_v2_finetuning.ipynb)
+    - 画像からその画像の意味を抽出可能
+  * [stable diffusion v2 finetune](generative/stable_diffusion_v2_finetuning.ipynb)
+    - stable diffusion v2のdreambooth finetuningのやつ
   * [stable diffusion image inpaint](generative/StableDiffusion_image_inpainting.ipynb)
+    - stable diffusionのinpaintingのdreambooth finetuningのやつ
 * Meeting
   * [meeting recognition](meeting/meeting.ipynb)
+    - whisper + pyannoteで話者識別、書き起こし、音声類似度判定で、誰が喋ったかまで可能
 * Motion
-  * []
+  * [alphapose3d](motion/alphapose_master_3d.ipynb)
+    - 3d 姿勢推定ライブラリの実行
+  * [motiondiffusion](motion/MotionDiffuse_original.ipynb)
+    - textからアクションを生成可能(ToDo: unityで使えるように連携[記事](https://note.com/npaka/n/nc76278c4a646))
 * ObjectDetection
+  * [visionTransformer](object_detection/vision_transformer_finetuning.ipynb)
+    - vision transformerで物体検出、自分用にfine-tuningする手順
 * SearchSystem
+  * [finetuner](searchsystem/genshin_finetuner_search_system.ipynb)
 * SemeanticSegmentation
+  * [unetdeeplab](semantic_segmentation/unet_deeplabv3.ipynb)
+    - unet + deeplabv3でsemantic segmentationを自分用でfinetuningする手順
 * Vision3d
+  * [ECON](vision3d/ECON_origin.ipynb)
+  * [get3d](vision3d/get3d.ipynb)
+  * [ICON](vision3d/ICON_train.ipynb)
+  * [latentNerf](vision3d/latent_nerf.ipynb)
+  * [NerfStudio](vision3d/nerfstudio.ipynb)
+  * [visionNerf](vision3d/vision_nerf.ipynb)
 
 
 ## Tips
