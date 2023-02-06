@@ -50,6 +50,8 @@
 * ObjectDetection
   * [visionTransformer](object_detection/vision_transformer_finetuning.ipynb)
     - vision transformerで物体検出、自分用にfine-tuningする手順
+  * [cutler](object_detection/cutler.ipynb)
+    - 教師なしでマスク検出が可能、detectron2には大きく依存だが、ここのdetectionをfine-tuningすれば自分用にカスタマイズ可能かも
 * SearchSystem
   * [finetuner](searchsystem/genshin_finetuner_search_system.ipynb)
 * SemeanticSegmentation
