@@ -14,7 +14,7 @@
 
 ## Contents
 * Analysis
-  * ptlflow_inference.ipynb
+  * [ptlflow_inference.ipynb](analysis/ptlflow_inference.ipynb)
     - opticalflowを代表とした画像内の動きを推論できるAIモデルのNotebook
 * B
 * C
