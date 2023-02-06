@@ -39,6 +39,8 @@
     - stable diffusion v2のdreambooth finetuningのやつ
   * [stable diffusion image inpaint](generative/StableDiffusion_image_inpainting.ipynb)
     - stable diffusionのinpaintingのdreambooth finetuningのやつ
+  * [stable diffusion v1.5 inpaint](generative/stable_diffusion_inpaint_dreambooth_v1_5.ipynb)
+  * [stable diffusion v2 inpaint](generative/stable_diffusion_inpainting_v2.ipynb)
 * Meeting
   * [meeting recognition](meeting/meeting.ipynb)
     - whisper + pyannoteで話者識別、書き起こし、音声類似度判定で、誰が喋ったかまで可能
@@ -64,6 +66,8 @@
   * [latentNerf](vision3d/latent_nerf.ipynb)
   * [NerfStudio](vision3d/nerfstudio.ipynb)
   * [visionNerf](vision3d/vision_nerf.ipynb)
+* App
+  * [gradioapp samples](app/gradioapp.ipynb)
 
 
 ## Tips
