@@ -16,6 +16,7 @@
 * Analysis
   * [ptlflow](analysis/ptlflow_inference.ipynb)
     - opticalflowを代表とした画像内の動きを推論できるAIモデルのNotebook
+  * [face detection](analysis/face_detection.ipynb)
 * Animation
   * [anime_rad_nerf](animation/anime_rad_nerf.ipynb)
     - 顔の映像と音声を合成する.アニメ映像でできるように改変
