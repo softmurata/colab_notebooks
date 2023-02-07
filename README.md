@@ -50,6 +50,8 @@
     - 3d 姿勢推定ライブラリの実行
   * [motiondiffusion](motion/MotionDiffuse_original.ipynb)
     - textからアクションを生成可能(ToDo: unityで使えるように連携[記事](https://note.com/npaka/n/nc76278c4a646))
+  * [motion diffusion unity](motion/motion_diffusion_unity.ipynb)
+    - text2unityのためのipynb
 * ObjectDetection
   * [visionTransformer](object_detection/vision_transformer_finetuning.ipynb)
     - vision transformerで物体検出、自分用にfine-tuningする手順
