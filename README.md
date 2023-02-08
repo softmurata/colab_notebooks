@@ -22,6 +22,8 @@
     - 顔の映像と音声を合成する.アニメ映像でできるように改変
   * [RAD_NeRF](animation/RAD_NeRF.ipynb)
     - 顔の映像と音声を合成する。3Dの推論を入れてるので精度が高い
+  * [Thin Plate Spline Motion](animation/Thin_Plate_Spline_Motion_Model_original.ipynb)
+    - 顔の映像を元映像の動きと同期させて話せるようになっている。
 * Audio
   * [audiolm](audio/audiolm.ipynb)
     - 音楽を生成できるやつ
@@ -71,6 +73,10 @@
   * [visionNerf](vision3d/vision_nerf.ipynb)
 * App
   * [gradioapp samples](app/gradioapp.ipynb)
+* Tools
+  * [instructpix2pix dataset creation](tools/instructpix2pix2_dataset.ipynb)
+* Video
+  * [Tune a video](video/tune_a_video.ipynb)
 
 
 ## Tips
