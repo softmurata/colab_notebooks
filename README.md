@@ -82,3 +82,10 @@
 ## Tips
 [Collaboration with github and colaboratory](https://hirotaka-hachiya.hatenablog.com/entry/2019/06/10/000051)
 
+## TODo:
+* mask interaction system
+    - [GLIGEM](https://github.com/gligen/GLIGEN) [Demo](https://huggingface.co/spaces/gligen/demo)
+    - [LaMa](https://huggingface.co/spaces/akhaliq/lama)
+
+
+
