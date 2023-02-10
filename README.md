@@ -75,6 +75,9 @@
   * [gradioapp samples](app/gradioapp.ipynb)
 * Tools
   * [instructpix2pix dataset creation](tools/instructpix2pix2_dataset.ipynb)
+* utilities
+  * [mask2bbox](utilities/mask2bbox.ipynb)
+    - [ref](https://dev.classmethod.jp/articles/make-bounding-box-from-mask-datas/)
 * Video
   * [Tune a video](video/tune_a_video.ipynb)
 
