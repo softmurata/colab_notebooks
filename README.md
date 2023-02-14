@@ -64,6 +64,8 @@
 * SemeanticSegmentation
   * [unetdeeplab](semantic_segmentation/unet_deeplabv3.ipynb)
     - unet + deeplabv3でsemantic segmentationを自分用でfinetuningする手順
+  * [mmsegtutorial PSPNet](semantic_segmentation/mmseg_tutorial.ipynb)
+    - PSPNetで車載カメラデータセットをcityscapesのpretrainedでfinetuningする手順
 * Vision3d
   * [ECON](vision3d/ECON_origin.ipynb)
   * [get3d](vision3d/get3d.ipynb)
@@ -80,6 +82,11 @@
     - [ref](https://dev.classmethod.jp/articles/make-bounding-box-from-mask-datas/)
 * Video
   * [Tune a video](video/tune_a_video.ipynb)
+* NLP
+  * [GPT2 Finetuning](nlp/gpt2_finetuning_eng.ipynb)
+* JapaneseNLP
+  * [GPT2 Finetuning for Japanese](japanesenlp/huggingfacenlp.ipynb)
+
 
 
 ## Tips
