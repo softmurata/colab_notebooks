@@ -66,6 +66,8 @@
     - unet + deeplabv3でsemantic segmentationを自分用でfinetuningする手順
   * [mmsegtutorial PSPNet](semantic_segmentation/mmseg_tutorial.ipynb)
     - PSPNetで車載カメラデータセットをcityscapesのpretrainedでfinetuningする手順
+  * [mmsegtutorial Deeplabv3](semantic_segmentation/mmseg_tutorial_deeplabv3.ipynb)
+    - Deeplabv3で車載カメラデータセット、convert datasetの実験もつけてる
 * Vision3d
   * [ECON](vision3d/ECON_origin.ipynb)
   * [get3d](vision3d/get3d.ipynb)
