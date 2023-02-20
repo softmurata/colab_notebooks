@@ -11,6 +11,14 @@
 - searchsystem
 - semantic_segmentation
 - vision3d
+- nlp
+- japanesenlp
+- app
+- tools
+- utilities
+- pix2pix
+- ocr
+- inpainting
 
 ## Contents
 * Analysis
@@ -88,7 +96,12 @@
   * [GPT2 Finetuning](nlp/gpt2_finetuning_eng.ipynb)
 * JapaneseNLP
   * [GPT2 Finetuning for Japanese](japanesenlp/huggingfacenlp.ipynb)
-
+* Inpainting
+  * [deepfillv2 demo](inpainting/deepfillv2.ipynb)
+* OCR
+  * [OCR finetuning](ocr/deep_text_recognition_benchmark_original.ipynb)
+* Pix2Pix for stable diffusion
+  * [Controlnet](pix2pix/controlnet.ipynb)
 
 
 ## Tips
