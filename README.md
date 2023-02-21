@@ -83,6 +83,8 @@
   * [latentNerf](vision3d/latent_nerf.ipynb)
   * [NerfStudio](vision3d/nerfstudio.ipynb)
   * [visionNerf](vision3d/vision_nerf.ipynb)
+  * [text2mesh](vision3d/text2mesh.ipynb)
+    - neural renderingを用いたtext2meshのデモ、ベースのmeshモデルによって精度は大きく変化するみたい。
 * App
   * [gradioapp samples](app/gradioapp.ipynb)
 * Tools
@@ -90,6 +92,8 @@
 * utilities
   * [mask2bbox](utilities/mask2bbox.ipynb)
     - [ref](https://dev.classmethod.jp/articles/make-bounding-box-from-mask-datas/)
+  * [pytorch lightning](utilities/efficientnet_pytorch_lightning.ipynb)
+    - efficient netを使った分類と値推定のNNの構築をpytorch lightningを使用して行ったデモ
 * Video
   * [Tune a video](video/tune_a_video.ipynb)
 * NLP
@@ -98,6 +102,7 @@
   * [GPT2 Finetuning for Japanese](japanesenlp/huggingfacenlp.ipynb)
 * Inpainting
   * [deepfillv2 demo](inpainting/deepfillv2.ipynb)
+  * [latent-diffusion inpainting](inpainting/latent_diffusion_inpaint.ipynb)
 * OCR
   * [OCR finetuning](ocr/deep_text_recognition_benchmark_original.ipynb)
 * Pix2Pix for stable diffusion
@@ -111,6 +116,9 @@
 * mask interaction system
     - [GLIGEM](https://github.com/gligen/GLIGEN) [Demo](https://huggingface.co/spaces/gligen/demo)
     - [LaMa](https://huggingface.co/spaces/akhaliq/lama)
+
+* 3D avatar creation
+    - [Rodin diffusion](https://3d-avatar-diffusion.microsoft.com/)
 
 
 
