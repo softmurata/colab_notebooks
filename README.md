@@ -19,6 +19,7 @@
 - pix2pix
 - ocr
 - inpainting
+- instructionpix
 
 ## Contents
 * Analysis
@@ -111,6 +112,8 @@
   * [OCR finetuning](ocr/deep_text_recognition_benchmark_original.ipynb)
 * Pix2Pix for stable diffusion
   * [Controlnet](pix2pix/controlnet.ipynb)
+* InstructionPix
+  * [attend and excite](instructionpix/attendandexcite_huggingface.ipynb)
 
 
 ## Tips
