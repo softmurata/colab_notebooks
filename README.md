@@ -84,7 +84,11 @@
   * [NerfStudio](vision3d/nerfstudio.ipynb)
   * [visionNerf](vision3d/vision_nerf.ipynb)
   * [text2mesh](vision3d/text2mesh.ipynb)
-    - neural renderingを用いたtext2meshのデモ、ベースのmeshモデルによって精度は大きく変化するみたい。
+    - neural renderingを用いたtext2meshのデモ、ベースのmeshモデルによって精度は大きく変化するみたい。 -> remeshが走らない（なぜかメモリが足らない、、）
+
+* Pix2Pix
+  * [ControlNet](pix2pix/controlnet.ipynb)
+  * [Pix2PixZero HuggingFace](pix2pix/huggingface_pix2pixzero.ipynb)
 * App
   * [gradioapp samples](app/gradioapp.ipynb)
 * Tools
