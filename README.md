@@ -114,6 +114,11 @@
   * [Controlnet](pix2pix/controlnet.ipynb)
 * InstructionPix
   * [attend and excite](instructionpix/attendandexcite_huggingface.ipynb)
+* LLM
+  * [peft with huggingface](llm/peft.ipynb)
+* chatgpt
+  * [chatgpt with chatwaifu](chatgpt/chatwaifu.ipynb)
+    - this is working in progress. maybe I cannot run on colab...
 
 
 ## Tips
@@ -126,6 +131,10 @@
 
 * 3D avatar creation
     - [Rodin diffusion](https://3d-avatar-diffusion.microsoft.com/)
+
+* Stable diffusion paper
+    - [awesome diffusion papers](https://github.com/heejkoo/Awesome-Diffusion-Models)
+
 
 
 
