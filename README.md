@@ -86,6 +86,8 @@
   * [visionNerf](vision3d/vision_nerf.ipynb)
   * [text2mesh](vision3d/text2mesh.ipynb)
     - neural renderingを用いたtext2meshのデモ、ベースのmeshモデルによって精度は大きく変化するみたい。 -> remeshが走らない（なぜかメモリが足らない、、）
+  * [live3d-v2](vision3d/live3d_v2.ipynb)
+    - Neural renderingを用いて3Dモデルのモーションやモデル生成が可能、MDMと組み合わせて面白いことができそう。
 
 * Pix2Pix
   * [ControlNet](pix2pix/controlnet.ipynb)
