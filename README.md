@@ -57,6 +57,9 @@
     - stable diffusionのinpaintingのdreambooth finetuningのやつ
   * [stable diffusion v1.5 inpaint](generative/stable_diffusion_inpaint_dreambooth_v1_5.ipynb)
   * [stable diffusion v2 inpaint](generative/stable_diffusion_inpainting_v2.ipynb)
+  * [stable diffusion for webui](generative/sd_webui.ipynb)
+  * [openjourney](generative/openjourney.ipynb)
+    - openjorney, nijijourneyの使い方、controlnetと組み合わせようとしたがgoogle colab freeのため失敗
 * Meeting
   * [meeting recognition](meeting/meeting.ipynb)
     - whisper + pyannoteで話者識別、書き起こし、音声類似度判定で、誰が喋ったかまで可能
@@ -143,6 +146,10 @@
 
 * Stable diffusion paper
     - [awesome diffusion papers](https://github.com/heejkoo/Awesome-Diffusion-Models)
+* Finetuning with blip
+    - [blip huggingface](https://huggingface.co/docs/transformers/model_doc/blip)
+    - [blip with dreambooth](https://github.com/KaliYuga-ai/blip-lora-dreambooth-finetuning/blob/main/KaliYuga_BLIP%2BLoRA%2BDreambooth_FineTuning.ipynb)
+
 
 
 
