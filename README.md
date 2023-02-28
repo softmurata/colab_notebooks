@@ -46,6 +46,8 @@
     - 音楽生成が可能（BGMより）、fine-tuningコードあり
   * [valle](audio/vall_e.ipynb)
     - 誰かの声真似ができる
+  * [audio extraction](audio/audio_extraction.ipynb)
+    - whisperとpyannoteを使って音声合成のためのデータセット作成を簡易化したノートブック
 * Generative
   * [img2prompt](generative/img2prompt.ipynb)
     - 画像からその画像の意味を抽出可能
