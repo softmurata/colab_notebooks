@@ -33,6 +33,8 @@
     - 顔の映像と音声を合成する。3Dの推論を入れてるので精度が高い
   * [Thin Plate Spline Motion](animation/Thin_Plate_Spline_Motion_Model_original.ipynb)
     - 顔の映像を元映像の動きと同期させて話せるようになっている。
+  * [MakeItTalk](animation/makeittalk.ipynb)
+    - 顔の映像と口元、目の当たりの動きをリンクさせて動かせるようなモデルになっている。Realistic visionも用いて生成した絵を動かすまでのパイプラインも紹介
 * Audio
   * [audiolm](audio/audiolm.ipynb)
     - 音楽を生成できるやつ
@@ -121,6 +123,9 @@
 * chatgpt
   * [chatgpt with chatwaifu](chatgpt/chatwaifu.ipynb)
     - this is working in progress. maybe I cannot run on colab...
+* Text2Speech
+  * [vits finetuning](text2speech/vits_finetuning_original.ipynb)
+
 
 
 ## Tips
