@@ -60,6 +60,7 @@
   * [stable diffusion for webui](generative/sd_webui.ipynb)
   * [openjourney](generative/openjourney.ipynb)
     - openjorney, nijijourneyの使い方、controlnetと組み合わせようとしたがgoogle colab freeのため失敗
+    - [huggingface site](https://huggingface.co/prompthero/openjourney)
 * Meeting
   * [meeting recognition](meeting/meeting.ipynb)
     - whisper + pyannoteで話者識別、書き起こし、音声類似度判定で、誰が喋ったかまで可能
@@ -84,6 +85,8 @@
     - PSPNetで車載カメラデータセットをcityscapesのpretrainedでfinetuningする手順
   * [mmsegtutorial Deeplabv3](semantic_segmentation/mmseg_tutorial_deeplabv3.ipynb)
     - Deeplabv3で車載カメラデータセット、convert datasetの実験もつけてる
+  * [unetseg](semantic_segmentation/UnetSeg.ipynb)
+    - Unetを使ってsimpleなモデルで学習をおこなったケース
 * Vision3d
   * [ECON](vision3d/ECON_origin.ipynb)
   * [get3d](vision3d/get3d.ipynb)
@@ -95,6 +98,8 @@
     - neural renderingを用いたtext2meshのデモ、ベースのmeshモデルによって精度は大きく変化するみたい。 -> remeshが走らない（なぜかメモリが足らない、、）
   * [live3d-v2](vision3d/live3d_v2.ipynb)
     - Neural renderingを用いて3Dモデルのモーションやモデル生成が可能、MDMと組み合わせて面白いことができそう。
+  * [rgbd23d](vision3d/rgbd23d.ipynb)
+    - midasで深度推定から3D point cloudを生成（全くうまくいかない）、そのほかにmmdetection3dのためのpoint cloud converterも実装されてる。
 
 * Pix2Pix
   * [ControlNet](pix2pix/controlnet.ipynb)
@@ -130,6 +135,9 @@
     - this is working in progress. maybe I cannot run on colab...
 * Text2Speech
   * [vits finetuning](text2speech/vits_finetuning_original.ipynb)
+* objectdetection3d
+  * [mmdetection3d](objectdetection3d/mmdetection3d.ipynb)
+    - mmdetection3dを用いた3d object detection、主にRGB+Point cloud or Point cloudの推定を行なっている。
 
 
 
@@ -149,6 +157,8 @@
 * Finetuning with blip
     - [blip huggingface](https://huggingface.co/docs/transformers/model_doc/blip)
     - [blip with dreambooth](https://github.com/KaliYuga-ai/blip-lora-dreambooth-finetuning/blob/main/KaliYuga_BLIP%2BLoRA%2BDreambooth_FineTuning.ipynb)
+    - [Lora finetuning](https://huggingface.co/blog/lora)
+    
 
 
 
