@@ -106,6 +106,7 @@
   * [Pix2PixZero HuggingFace](pix2pix/huggingface_pix2pixzero.ipynb)
 * App
   * [gradioapp samples](app/gradioapp.ipynb)
+  * [gradioapp image+chat](apps/gradiochatapp.ipynb)
 * Tools
   * [instructpix2pix dataset creation](tools/instructpix2pix2_dataset.ipynb)
 * utilities
@@ -144,7 +145,7 @@
 ## Tips
 [Collaboration with github and colaboratory](https://hirotaka-hachiya.hatenablog.com/entry/2019/06/10/000051)
 
-## TODo:
+## ToDo:
 * mask interaction system
     - [GLIGEM](https://github.com/gligen/GLIGEN) [Demo](https://huggingface.co/spaces/gligen/demo)
     - [LaMa](https://huggingface.co/spaces/akhaliq/lama)
